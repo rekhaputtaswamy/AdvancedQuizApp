@@ -1,0 +1,4 @@
+fr/epita/quiz/controller/QuizController.class
+fr/epita/quiz/model/Choices.class
+fr/epita/quiz/model/Questions.class
+fr/epita/quiz/dao/QuestionDao.class
